@@ -7,4 +7,8 @@ Table of content:
 
 2. Random forest with Social Network Ads dataset
 
-3. 
+3. Data football - Exploration
+
+4. Dataset Taxi - Explratory data analysis
+
+5. 
